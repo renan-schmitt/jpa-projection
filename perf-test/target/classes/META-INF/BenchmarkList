@@ -1,0 +1,2 @@
+JMH S 23 org.example.MyBenchmark S 52 org.example.jmh_generated.MyBenchmark_entity_jmhTest S 6 entity S 11 AverageTime E A 1 1 1 E I 1 5 T 6 100 ms E I 3 100 T 6 100 ms E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 org.example.MyBenchmark S 56 org.example.jmh_generated.MyBenchmark_projection_jmhTest S 10 projection S 11 AverageTime E A 1 1 1 E I 1 5 T 6 100 ms E I 3 100 T 6 100 ms E E E E E E E E U 12 MILLISECONDS E E 
